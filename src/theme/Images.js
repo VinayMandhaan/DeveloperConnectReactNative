@@ -1,0 +1,1 @@
+export const SignUpImage = require('../assets/Images/Code.jpg')
